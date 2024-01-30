@@ -68,3 +68,7 @@ http.createServer((req,res) => {
     })
 }).listen(5000)
 ```
+
+#### express
+- API - JSON  - res.json()
+- SSR - Template  - res.render()
